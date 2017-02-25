@@ -1,0 +1,37 @@
+@import 'home';
+
+.banner {
+  font-size: 32px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 40px;
+  padding: 25px;
+  text-align: center;
+  background-color: #E0F0F1;
+}
+
+.search-feature {
+  text-align: center;
+  margin-top: 50px;
+
+}
+
+.search-feature input {
+  height: 40px;
+  width: 300px;
+}
+
+.col-md-12 {
+  margin-left: 80px;
+}
+
+.movie-description {
+  margin-left: 120px;
+}
+
+.row {
+  padding: 20px;
+}
+h1 {
+  color: tomato;
+}
