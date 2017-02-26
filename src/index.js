@@ -1,7 +1,7 @@
 // Application entrypoint.
 
 // Load up the application styles
-require("./application.scss");
+require("../public/application.css");
 
 // Render the top-level React component
 import React from 'react';
